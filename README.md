@@ -1,5 +1,5 @@
-###### FORKED FROM fireice-uk's and psychocrypt's
-# XMR-Stak - Monero/Aeon All-in-One Mining Software
+###### FORKED FROM fireice-uk's and psychocrypt's xmr-stak
+# techdiode - Monero/Aeon All-in-One Mining Software
 
 Techdiode is a universal Stratum pool miner. This miner supports CPUs, AMD and NVIDIA gpus and can be used to mine the crypto currency Monero and Aeon.
 
